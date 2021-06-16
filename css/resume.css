@@ -95,7 +95,7 @@ img {
 }
 /*============== CLASS CSS =============*/
 .section {
-  padding: 4rem 0 2rem;
+  padding: 4rem 0 4rem;
 }
 
 .section-title {
@@ -723,7 +723,7 @@ footer {
   }
 
   .section {
-    padding: 3rem 0 2rem;
+    padding: 3rem 0 3rem;
   }
 
   .bd-grid {
